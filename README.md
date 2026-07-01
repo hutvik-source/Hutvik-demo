@@ -1,2 +1,3 @@
 # Hutvik-demo
-understanding GitHub
+Understanding GitHub
+Author - Hutvik Jain.
